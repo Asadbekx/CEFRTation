@@ -1,0 +1,6 @@
+{
+  "name": "CEFRTation",
+  "description": "Eng mashhur 30 dan ortiq tillarni o'rganish, interaktiv flesh-kartalar, AI yordamchi va moslashuvchan ko'rinishga ega bo'lgan zamonaviy ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
